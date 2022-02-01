@@ -76,19 +76,6 @@ def predict():
             Jet_Airways_Business = 0
             Vistara_Premium_economy = 0
             Trujet = 0 
-
-        elif (airline=='Air India'):
-            Jet_Airways = 0
-            IndiGo = 0
-            Air_India = 1
-            Multiple_carriers = 0
-            SpiceJet = 0
-            Vistara = 0
-            GoAir = 0
-            Multiple_carriers_Premium_economy = 0
-            Jet_Airways_Business = 0
-            Vistara_Premium_economy = 0
-            Trujet = 0 
             
         elif (airline=='Multiple carriers'):
             Jet_Airways = 0
